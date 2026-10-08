@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shabarish Chandu Bangera 👋
 
-<!--
-**shabarishbangera7077-ss/shabarishbangera7077-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student passionate about building real-world software applications.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT
+- MySQL
+- MongoDB
+- JavaScript
+- Python
+- TensorFlow
+- Flutter
+- Dart
+
+## 🚀 Featured Projects
+
+### ShelfUp
+Study Resource Sharing Platform built with Java, Spring Boot, JWT and MySQL.
+
+### NightBite
+Late-Night Food Ordering Platform built with Java, Spring Boot, JWT and MySQL.
+
+### Indian Street Food Classification App
+Deep-learning based food classification application using TensorFlow, TensorFlow Lite and Flutter.
+
+## 🎓 Education
+
+Master of Computer Applications (MCA)
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_LINK
+- Email: shabarishbangera7077@gmail.com
